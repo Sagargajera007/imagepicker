@@ -1,6 +1,6 @@
 import 'package:shared_preferences/shared_preferences.dart';
 
-class Model{
+class Model
+{
   static SharedPreferences? prefs;
-
 }
